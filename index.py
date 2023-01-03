@@ -6,3 +6,7 @@ print("credential manager")
 
 print("what is going on here")
 print("check again")
+
+print("welcome to today")
+
+print("jsut checking out some errors in vscode")
