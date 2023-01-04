@@ -10,3 +10,4 @@ print("check again")
 print("welcome to today")
 
 print("jsut checking out some errors in vscode")
+print("another day to be happy. Testing my setup")
