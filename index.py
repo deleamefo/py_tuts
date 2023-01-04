@@ -1,13 +1,32 @@
-print("Hello")
-print("just getting by today")
-print("Just another python hello world")
-print("credential manager")
+# Python program to illustrate
+# Iterating over a list
+print("List Iteration")
+l = ["geeks", "for", "geeks"]
+for i in l:
+    print(i)
 
+# Iterating over a tuple (immutable)
+print("\nTuple Iteration")
+t = ("geeks", "for", "geeks")
+for i in t:
+    print(i)
 
-print("what is going on here")
-print("check again")
+# Iterating over a String
+print("\nString Iteration")
+s = "Geeks"
+for i in s:
+    print(i)
 
-print("welcome to today")
+# Iterating over dictionary
+print("\nDictionary Iteration")
+d = dict()
+d['xyz'] = 123
+d['abc'] = 345
+for i in d:
+    print("%s %d" % (i, d[i]))
 
-print("jsut checking out some errors in vscode")
-print("another day to be happy. Testing my setup")
+# Iterating over a set
+print("\nSet Iteration")
+set1 = {1, 2, 3, 4, 5, 6}
+for i in set1:
+    print(i),
