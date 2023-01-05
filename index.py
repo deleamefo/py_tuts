@@ -20,8 +20,8 @@ for i in s:
 # Iterating over dictionary
 print("\nDictionary Iteration")
 d = dict()
-d['xyz'] = 123
-d['abc'] = 345
+d['xyz'] = 345
+d['abc'] = 123
 for i in d:
     print("%s %d" % (i, d[i]))
 
