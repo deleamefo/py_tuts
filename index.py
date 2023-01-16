@@ -33,4 +33,4 @@ for i in set1:
 
 print("Lets print a simple statemet!")
 print("another print statement here")
-print("Learning fastAPI")
+print("another day, another opportunity to code inn .py and .go")
